@@ -1,5 +1,5 @@
 # Image-Processor
-Welcome to the Image Processing app! This C application uses dynamic memory allocation with pointers to process images, change pixels, and edit them.
+The Image Processing application uses dynamic memory allocation with pointers to process images, change pixels, and edit them.
 
 To run this app, you will need:
 
